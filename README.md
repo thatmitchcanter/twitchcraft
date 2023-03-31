@@ -1,2 +1,2 @@
 # twitchcraft
-Gutenberg Compatable Interface with the Twtich API
+Gutenberg Compatible Interface with the Twtich API
