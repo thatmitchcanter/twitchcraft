@@ -1,0 +1,15 @@
+{
+  "name": "twitchcraft",
+  "version": "1.0.0",
+  "description": "Gutenberg Compatable Interface with the Twtich API",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatmitchcanter/twitchcraft.git"
+  },
+  "author": "Mitch Canter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thatmitchcanter/twitchcraft/issues"
+  },
+  "homepage": "https://github.com/thatmitchcanter/twitchcraft#readme"
+}

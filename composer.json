@@ -1,0 +1,20 @@
+{
+    "name": "thatmitchcanter/twitchcraft",
+    "description": "Twitch API Plugin for WordPress",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Thatmitchcanter\\Twitchcraft\\": "/"
+        },
+        "files": ["vendor/cmb2/cmb2/init.php"]        
+    },
+    "authors": [
+        {
+            "name": "Mitch Canter",
+            "email": "mitch.canter@webdevstudios.com"
+        }
+    ],
+    "require": {
+        "cmb2/cmb2": "dev-master"
+    }
+}
